@@ -4,14 +4,14 @@
 3.We can update entire column in just one step.
 4.Program is user friendly user can read and write again and again  and also exit anytime.
 5.READ OPTIONS
-       -> ENTIRE SHEET
-       -> ENTIRE COLUMN
-       -> ENTIRE ROW
-       -> PARTICULAR CELL
+       A.ENTIRE SHEET
+       B.ENTIRE COLUMN
+       C.ENTIRE ROW
+       D.PARTICULAR CELL
  6.WRITE OPTIONS
-       -> WRITE EXISTING CELLS
-            ->ENTIRE COLUMN
-            ->PARTICULAR CELL
+       A.WRITE EXISTING CELLS
+             I.ENTIRE COLUMN
+             II.PARTICULAR CELL
             
-       -> ADD NEW ROW AT END 
+       B.ADD NEW ROW AT END 
  
