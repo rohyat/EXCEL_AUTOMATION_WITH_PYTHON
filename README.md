@@ -11,7 +11,6 @@
  6.WRITE OPTIONS
        A.WRITE EXISTING CELLS
              I.ENTIRE COLUMN
-             II.PARTICULAR CELL
-            
+             II.PARTICULAR CELL    
        B.ADD NEW ROW AT END 
  
